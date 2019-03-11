@@ -25,8 +25,8 @@ Write the command that you used to do this - as well as its output - below :
 ----------
 
 pwd
-
-==========
+/users/student
+----------
 3. Are there any directories or files in your directory that have the word mtec1002 in it?
 
 Write the command(s) that you used to determine this - as well as its output - below:
