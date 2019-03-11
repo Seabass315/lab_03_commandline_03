@@ -17,9 +17,9 @@ We're going to be writing a shell script.  First, though... let's figure out wha
 
 What command did you use, and what was its output?
 ----------
+date
 
-
-
+Mon Mar 11 16:26:59 EDT 2019
 ==========
 2. Print out a calendar for this month.
 
